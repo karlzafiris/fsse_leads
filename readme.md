@@ -3,7 +3,6 @@
 - A simple POC of a lead capturing application built with **Laravel**, **MongoDB**, and **Vue.js**.  
 - This project allows you to add, update, and view leads, with optional Mailchimp integration.
 - *Author: Karl Zafiris*
----
 
 ## Features
 
@@ -12,8 +11,6 @@
 - Update leads in real-time via API
 - Optional integration with Mailchimp to sync subscribers
 - CORS ready for frontend-backend separation
-
----
 
 ## Tech Stack
 
