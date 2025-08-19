@@ -1,8 +1,8 @@
-# FSSE Leads
+## FSSE Leads
 
-A simple POC of a lead capturing application built with **Laravel**, **MongoDB**, and **Vue.js**.  
-This project allows you to add, update, and view leads, with optional Mailchimp integration.
-Author: Karl Zafiris
+- A simple POC of a lead capturing application built with **Laravel**, **MongoDB**, and **Vue.js**.  
+- This project allows you to add, update, and view leads, with optional Mailchimp integration.
+- Author: Karl Zafiris
 ---
 
 ## Features
