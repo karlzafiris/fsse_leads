@@ -2,7 +2,7 @@
 
 - A simple POC of a lead capturing application built with **Laravel**, **MongoDB**, and **Vue.js**.  
 - This project allows you to add, update, and view leads, with optional Mailchimp integration.
-- Author: Karl Zafiris
+- *Author: Karl Zafiris*
 ---
 
 ## Features
@@ -24,31 +24,33 @@
 ---
 
 ## Installation
-`git clone https://github.com/karlzafiris/fsse_leads.git`
-`cd fsse_leads`
+- Clone the repository
+- `git clone https://github.com/karlzafiris/fsse_leads.git`
+- `cd fsse_leads`
 
-## Install backend dependencies
-`cd backend`
-`composer install`
+### Install backend dependencies
+- `cd backend`
+- `composer install`
 
-## Copy the example environment file
+### Copy the example environment file
 `cp .env.example .env`
 
-## Generate the application key
+### Generate the application key
 `php artisan key:generate`
 
-## Install frontend dependencies
-`cd frontend`
-`npm install`
+### Install frontend dependencies
+-`cd frontend`
+-`npm install`
 
-## Build frontend assets for development
-Inside fronted folder run:
-`npm run dev`
+### Build frontend assets for development
+- Inside fronted folder run:
+- `npm run dev`
 
-## Start the Laravel backend server
-Inside backend folder run:
-`php artisan serve`
+### Start the Laravel backend server
+- Inside backend folder run:
+- `php artisan serve`
 
+---
 
 ## Screenshots
 
